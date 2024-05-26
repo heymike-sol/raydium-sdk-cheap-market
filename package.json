@@ -1,6 +1,6 @@
 {
-  "name": "@raydium-io/raydium-sdk",
-  "version": "1.3.1-beta.52",
+  "name": "@heymike/raydium-sdk",
+  "version": "1.3.1-beta.52.opt.2",
   "description": "An SDK for building applications on top of Raydium.",
   "license": "GPL-3.0",
   "files": [
@@ -13,7 +13,7 @@
     "require": "./lib/cjs/index.js",
     "import": "./lib/esm/index.js"
   },
-  "repository": "https://github.com/raydium-io/raydium-sdk",
+  "repository": "https://github.com/heymike-sol/raydium-sdk-cheap-market",
   "keywords": [
     "raydium",
     "solana"
@@ -79,7 +79,7 @@
     "npm-check-updates": "^16.14.11",
     "shx": "^0.3.4",
     "ts-node": "^10.9.1",
-    "typedoc": "^0.25.3",
-    "typescript": "^5.3.2"
+    "typedoc": "^0.25.13",
+    "typescript": "^5.4.5"
   }
 }
